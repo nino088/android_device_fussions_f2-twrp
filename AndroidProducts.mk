@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_s3912e.mk
+    $(LOCAL_DIR)/twrp_s3912e.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_s3912e-user \
-    omni_s3912e-userdebug \
-    omni_s3912e-eng
+    twrp_s3912e-eng
