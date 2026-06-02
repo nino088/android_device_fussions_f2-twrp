@@ -1,0 +1,6 @@
+ro.mediatek.platform=MT6739
+ro.hardware=mt6739
+ro.crypto.volume.filenames_mode=aes-256-cts
+
+# Keymaster
+keymaster_ver=4.0
