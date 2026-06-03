@@ -7,7 +7,7 @@
 
 LOCAL_PATH := device/alps/s3912e
 
-# A/B Updater
+# AB 
 AB_OTA_UPDATER := true
 
 # A/B
