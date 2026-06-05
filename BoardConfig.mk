@@ -155,6 +155,7 @@ TW_NO_CPU_TEMP := true
 TW_OEM_BUILD := true
 TW_NO_FASTBOOT_BOOT := true
 TW_USE_TOOLBOX := true
+BOARD_HAS_NO_REAL_SDCARD := true
 TW_BUILD_VERSION := Build by Chinedu +2349039121780
 
 # Debug
