@@ -161,3 +161,6 @@ TW_BUILD_VERSION := Build by Chinedu +2349039121780
 # Debug
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+# Vendor Modules
+TW_LOAD_VENDOR_MODULES := "kheaders.ko met.ko modules.alias modules.dep modules.load modules.softdep"
